@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/hoachnt/Documents/programming languages/oop/python/animation/media/videos/main/480p15/partial_movie_files/OpeningManim/1185818338_2813026641_223132457.mp4'
+file 'file:/home/hoachnt/Documents/programming languages/oop/python/animation/media/videos/main/480p15/partial_movie_files/OpeningManim/624642324_1704852926_2497151374.mp4'
+file 'file:/home/hoachnt/Documents/programming languages/oop/python/animation/media/videos/main/480p15/partial_movie_files/OpeningManim/624642324_3734008827_595242722.mp4'
+file 'file:/home/hoachnt/Documents/programming languages/oop/python/animation/media/videos/main/480p15/partial_movie_files/OpeningManim/624642324_1704852926_4213509571.mp4'
+file 'file:/home/hoachnt/Documents/programming languages/oop/python/animation/media/videos/main/480p15/partial_movie_files/OpeningManim/624642324_2660341644_394111008.mp4'
+file 'file:/home/hoachnt/Documents/programming languages/oop/python/animation/media/videos/main/480p15/partial_movie_files/OpeningManim/624642324_1704852926_4209934498.mp4'
+file 'file:/home/hoachnt/Documents/programming languages/oop/python/animation/media/videos/main/480p15/partial_movie_files/OpeningManim/624642324_440272393_1089952389.mp4'
+file 'file:/home/hoachnt/Documents/programming languages/oop/python/animation/media/videos/main/480p15/partial_movie_files/OpeningManim/624642324_1704852926_1252324647.mp4'
+file 'file:/home/hoachnt/Documents/programming languages/oop/python/animation/media/videos/main/480p15/partial_movie_files/OpeningManim/624642324_476919258_4103733277.mp4'
+file 'file:/home/hoachnt/Documents/programming languages/oop/python/animation/media/videos/main/480p15/partial_movie_files/OpeningManim/624642324_1704852926_2662341455.mp4'

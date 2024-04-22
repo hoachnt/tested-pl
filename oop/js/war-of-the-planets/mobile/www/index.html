@@ -1,0 +1,25 @@
+<head>
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+</head>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+    }
+    .score {
+        position: fixed;
+        color: rgb(255, 255, 255);
+        margin: 20px;
+        user-select: none;
+    }
+    span {
+        font-size: 20px;
+    }
+</style>
+
+<div class="score"><span>Score: </span><span class="scoreEl">0</span></div>
+<canvas></canvas>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.3/gsap.min.js" integrity="sha512-6zTDRWNxo8vI6JZYDCwhrJpg5icK3P4HNnW3czsO5Scb3lAoPDam+/wF3eog4hxcl0h44d0XlIcFkuoSaWHQ2g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="./js/main.js"></script>

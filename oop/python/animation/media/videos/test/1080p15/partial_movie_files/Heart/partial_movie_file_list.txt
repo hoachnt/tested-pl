@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/hoachnt/Documents/programming languages/oop/python/animation/media/videos/test/1080p15/partial_movie_files/Heart/1264212857_2789955363_223132457.mp4'
+file 'file:/home/hoachnt/Documents/programming languages/oop/python/animation/media/videos/test/1080p15/partial_movie_files/Heart/2725161996_941030957_3412579315.mp4'
+file 'file:/home/hoachnt/Documents/programming languages/oop/python/animation/media/videos/test/1080p15/partial_movie_files/Heart/2725161996_1599586263_3615557047.mp4'
+file 'file:/home/hoachnt/Documents/programming languages/oop/python/animation/media/videos/test/1080p15/partial_movie_files/Heart/2725161996_2281442098_3595509853.mp4'
+file 'file:/home/hoachnt/Documents/programming languages/oop/python/animation/media/videos/test/1080p15/partial_movie_files/Heart/2725161996_1704852926_1656409658.mp4'
